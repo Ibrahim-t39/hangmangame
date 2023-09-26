@@ -1,2 +1,2 @@
 # hangmangame
- A cool game I learnt how to make
+ Classic Hangman game with Python
