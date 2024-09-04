@@ -1,7 +1,3 @@
-Here's a README and description for your Hangman game implementation:
-
----
-
 # Hangman Game
 
 ## Description
